@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+## Basic Lottery System implemented in Java
 
-You can use the [editor on GitHub](https://github.com/isthiscode/lottery-java-basic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project tries to mimic the working of [PowerBall Lottery](http://www.powerball.com/pb_home.asp), apopular lottery system in the US.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Details
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This system currently lets users to:
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
